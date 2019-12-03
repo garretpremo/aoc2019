@@ -1,7 +1,7 @@
 from math import floor
 
 if __name__ == '__main__':
-    file = open('input.txt')
+    file = open('input1.txt')
     
     masses = file.read().split()
     totalFuel = 0
